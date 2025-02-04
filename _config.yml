@@ -9,7 +9,7 @@ name: Loveu
 description: Mwa mwa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://ibb.co/mr7qhK9N
+avatar: ![image tooltip here](/images/assets/image.jpg)
 
 #
 # Flags below are optional
