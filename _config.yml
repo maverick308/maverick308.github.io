@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Loveu
+name: Cablao
 
 # Short bio or description (displayed in the header)
-description: Mwa mwa
+description: Kalbo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ![f30e27f3-7b1c-47f9-831d-634ec1003351.jpg]({{site.baseurl}}/images/f30e27f3-7b1c-47f9-831d-634ec1003351.jpg)
